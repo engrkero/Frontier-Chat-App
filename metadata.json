@@ -1,0 +1,6 @@
+{
+  "name": "Frontier AI Chat",
+  "description": "Premium AI chat application powered by Next.js, Vercel AI SDK, and OpenRouter frontier models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
